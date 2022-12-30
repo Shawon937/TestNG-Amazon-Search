@@ -1,1 +1,0 @@
-{"uuid":"7198fac5-e1df-4124-bcbe-00f7e4e4cb31","name":"Amazon_Search","children":["0406b1ad-674c-49b7-b313-b642eb65eac3"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1672403660971,"stop":1672403664389}],"afters":[],"start":1672403660947,"stop":1672403692594}
